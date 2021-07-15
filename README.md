@@ -8,6 +8,16 @@ Mô hình hoá sẽ tạo các kỹ năng và kỹ thuật nhằm tạo ra các 
 # 2. Mô hình hướng dịch vụ (SOA) là gì? Kiến trúc và lợi ích của SOA?
 SOA là một **cách tiếp cận** để **tổ chức** **các tài nguyên  công nghệ thông tin** mà ở đó **dữ liệu, logic và nguồn  lực hạ tầng** được **truy cập** thông qua các **giao diện  (interface)** và **thông điệp (Message)**
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/67744403/125777347-4335bea2-bf9a-445c-9a08-f9c47f886262.PNG" /></div>
+ Lợi ích :
+ - Hướng sự tập trung vào xây dựng các tính năng 
+ nghiệp vụ (trong quá trình phát triển phần mềm)
+ - Tính tái sử dụng cao, không đòi hỏi phải thay đổi 
+ toàn bộ quy trình
+ - Giảm thiểu yêu cầu về đào tạo và kỹ năng
+ - Giảm thiểu chi phí, chi phí bảo trì thấp
+ - Chu trình phát triển phần mềm nhanh chóng hơn
+ - Các bên không cần khai báo tường minh về công 
+ nghệ, nền tảng hệ thống, vị trí hoặc môi trường
 
 # 3. Web service (WS) là gì? Các thành phần của WS? 
 # 4. SDLC là gì? Các giai đoạn trong SDLC? Trình bày mục đích của từng giai đoạn? 
