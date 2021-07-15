@@ -65,8 +65,30 @@ Nhược điểm :
  + Cần nhiều kinh nghiệm khi tiến hành
 # 6. SDLC 
 ## a. Các mô hình: Waterfall, mô hình chữ V, lặp, xoắn ốc, RAD, Agile 
+### Waterfall : Trong mô hình Waterfall, các giai đoạn của dự án được thực hiện lần lượt và nối tiếp nhau. Giai đoạn mới chỉ được bắt đầu khi giai đoạn trước nó đã được hoàn thành.
+### V : Trong mô hình V, các hoạt động phát triển và đảm bảo chất lượng được thực hiện đồng thời. Không có pha rời rạc được gọi là kiểm thử, thay vào đó kiểm thử được bắt đầu ngay từ giai đoạn lấy yêu cầu. Các hoạt động xác minh và xác nhận đi liền với nhau.
+### Mô hình lặp :
+- Xây dựng nhanh ứng dụng con đáp ứng một phần yêu cầu
+- Ứng dụng con cũng được kiểm tra, đánh giá và hiệu chỉnh
+- Trong mỗi bước lặp, mở rộng ứng dụng con lớn dần cho đến khi đáp ứng tất cả yêu cầu
+- Có thể có nhiều vòng lặp tại một thời điểm và ứng dụng lớn có thể được chia thành nhiều hiện thực con (build)
+### Mô hình xoắn ốc : Mô hình xoắn ốc (Spiral-Model) là mô hình có sự kết hợp giữa mô hình thác nước (Waterfall-Model) và mô hình tiếp cận lặp (Iterative-Model) và nó có nhiều điểm giống nhau với mô hình gia tăng (Incremental-Model).
 ## b. Agile là gì? Các nguyên tắc chính của Agile? 
+Agile là một phương pháp phát triển phần mềm linh hoạt để làm sao đưa sản phẩm đến tay người dùng càng nhanh càng tốt càng sớm càng tốt.
+Tuyên ngôn Agile :
+- **Cá nhân và sự tương tác** hơn là quy trình và công cụ;
+- **Phần mềm chạy tốt hơn** là tài liệu đầy đủ;
+- **Cộng tác với khách hàng hơn** là đàm phán hợp đồng;
+- **Phản hồi với các thay đổi hơn** là bám sát kế hoạch.
 ## c. So sánh Agile và Waterfall 
+|Waterfall          |Agile        |
+|-------------------|-------------|
+|Tách SDLC thành các sprint lặp đi lặp lại|Tách SDLC thành các giai đoạn rõ ràng|
+|Tiếp cận tăng trưởng|Tiếp cận tuần tự|
+|Linh hoạt với sự thay đổi|Kém linh hoạt, cững nhắc, bám sát kế hoạch|
+|Là một tập hợp nhiều dự án nhỏ kết hợp|Được phát triển như một dự án duy nhất|
+|Kiểm thử trong mỗi sprint|Kiểm thử trong giai đoạn kiểm thử|
+|Thích hợp với các dự án có yêu cầu không rõ ràng, có sự thay đổi về yêu cầu và phạm vi|Thích hợp với những dự án yêu cầu rõ ràng, không có sự thay đổi yêu cầu và phạm vi|
 ## d. Scrum và Extreme Programming: là gì? so sánh 2 phương pháp 
 # 7. Thiết kế hướng cấu trúc (SOD) và thiết kế hướng đối tượng (OOD) là gì? So sánh 2 phương pháp. 
 # 8. Mô hình hóa dữ liệu 
