@@ -1,5 +1,14 @@
 # 1. Mô hình hóa là gì? Ý nghĩa mô hình hóa?
-# 2. Mô hình hướng dịch vụ (SOA) là gì? Kiến trúc và lợi ích của SOA? 
+Mô hình hoá là **hướng nền tảng** và **định lượng** để **hiểu các hệ thống phức tạp** và các hiện tượng (tự nhiên, trong cuộc sống…)<br>
+Mô hình hoá là sự **bổ sung** tới các **phương pháp nghiên cứu cổ điển** về **lý thuyết** và **thực nghiệm**
+Mô hình hoá là quá trình sản sinh ra các **mô hình trừu tượng** và **khái niệm.**
+
+Mô hình hoá sẽ tạo các kỹ năng và kỹ thuật nhằm tạo ra các kết quả **sâu sắc, đáng tin cậy**, và **dễ sử dụng**
+
+# 2. Mô hình hướng dịch vụ (SOA) là gì? Kiến trúc và lợi ích của SOA?
+SOA là một **cách tiếp cận** để **tổ chức** **các tài nguyên  công nghệ thông tin** mà ở đó **dữ liệu, logic và nguồn  lực hạ tầng** được **truy cập** thông qua các **giao diện  (interface)** và **thông điệp (Message)**
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/67744403/125777347-4335bea2-bf9a-445c-9a08-f9c47f886262.PNG" /></div>
+
 # 3. Web service (WS) là gì? Các thành phần của WS? 
 # 4. SDLC là gì? Các giai đoạn trong SDLC? Trình bày mục đích của từng giai đoạn? 
 # 5. Có những cách tiếp cận nào trong hiện thực SDLC? Nêu ưu/nhược điểm của từng cách và cho ví dụ về phương pháp trong từng cách tiếp cận. 
