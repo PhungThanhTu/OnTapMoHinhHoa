@@ -10,14 +10,14 @@
 # d. Scrum và Extreme Programming: là gì? so sánh 2 phương pháp 
 ## 7. Thiết kế hướng cấu trúc (SOD) và thiết kế hướng đối tượng (OOD) là gì? So sánh 2 phương pháp. 
 ## 8. Mô hình hóa dữ liệu 
-## a. ERD (là gì? Mục đích? Thành phần? Các bước xây dựng) 
+# a. ERD (là gì? Mục đích? Thành phần? Các bước xây dựng) 
 # b. Dữ liệu quan hệ (là gì? Mục đích? Thành phần? Các bước xây dựng) 
 # c. Chuyển đổi từ ERD sang mô hình dữ liệu quan hệ 
 ## 9. UML và OOAD 
 # a. Lịch sử, ý nghĩa, thành phần của UML 
 # b. Các sơ đồ trong UML: use case, sơ đồ tuần tự, hoạt động và sơ đồ lớp 
 # c. Các bước trong phân tích và thiết kế hướng đối tượng, nội dung từng bước 
-## 10.3 Mô hình tier và 3 layer 
+## 10. 3 Mô hình tier và 3 layer 
 # a. Giới thiệu, thành phần, ý nghĩa của từng mô hình? 
 # b. So sánh 3 tier và 3 layer
 ## 11.Trình bày một mô hình mà bạn quan tâm (khác với seminar của nhóm), trình bày các hiểu biết của bạn về mô hình đó.
