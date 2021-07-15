@@ -10,17 +10,24 @@ SOA là một **cách tiếp cận** để **tổ chức** **các tài nguyên  
 <div style="text-align:center"><img src="https://user-images.githubusercontent.com/67744403/125777347-4335bea2-bf9a-445c-9a08-f9c47f886262.PNG" /></div>
  Lợi ích : <br>
  
- - Hướng sự tập trung vào xây dựng các tính năng <br>
- nghiệp vụ (trong quá trình phát triển phần mềm) <br>
- - Tính tái sử dụng cao, không đòi hỏi phải thay đổi 
+ - **Hướng sự tập trung** vào **xây dựng** các **tính năng nghiệp vụ** (trong quá trình phát triển phần mềm) <br>
+ - Tính **tái sử dụng** cao, **không đòi hỏi phải thay đổi** 
  toàn bộ quy trình<br>
- - Giảm thiểu yêu cầu về đào tạo và kỹ năng<br>
- - Giảm thiểu chi phí, chi phí bảo trì thấp<br>
- - Chu trình phát triển phần mềm nhanh chóng hơn<br>
- - Các bên không cần khai báo tường minh về công 
+ - **Giảm thiể**u yêu cầu về **đào tạo và kỹ năng**<br>
+ - **Giảm thiểu **chi phí**, chi phí bảo trì thấp<br>
+ - Chu trình phát triển phần mềm **nhanh chóng** hơn<br>
+ - Các bên không cần khai báo **tường minh** về công 
  nghệ, nền tảng hệ thống, vị trí hoặc môi trường<br>
 
 # 3. Web service (WS) là gì? Các thành phần của WS? 
+Web service là một **công nghệ triệu gọi từ xa** có tính **khả chuyển** cao: mang tính **độc lập nền**, độc lập **ngôn ngữ**
+
+Thành phần :
+- Nhóm các chuẩn dựa trên XML
+- Ngôn ngữ định danh dịch vụ Web (Web Services Definition Language – WSDL) có nhiệm vụ cung cấp một cách thức cơ bản để mô tả các thành phần của phần mềm
+- Giao thức truy cập đối tượng đơn giản (Simple Object Access Protocol – SOAP)
+- Chuẩn dịch vụ Tích hợp, Khám phá và Mô tả thống nhất (Universal Description, Discovery, and Integration – UDDI)
+
 # 4. SDLC là gì? Các giai đoạn trong SDLC? Trình bày mục đích của từng giai đoạn? 
 # 5. Có những cách tiếp cận nào trong hiện thực SDLC? Nêu ưu/nhược điểm của từng cách và cho ví dụ về phương pháp trong từng cách tiếp cận. 
 # 6. SDLC 
