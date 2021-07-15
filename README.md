@@ -16,7 +16,7 @@
 # 9. UML và OOAD 
 ## a. Lịch sử, ý nghĩa, thành phần của UML 
 ## b. Các sơ đồ trong UML: use case, sơ đồ tuần tự, hoạt động và sơ đồ lớp 
-##c. Các bước trong phân tích và thiết kế hướng đối tượng, nội dung từng bước 
+## c. Các bước trong phân tích và thiết kế hướng đối tượng, nội dung từng bước 
 # 10. 3 Mô hình tier và 3 layer 
 ## a. Giới thiệu, thành phần, ý nghĩa của từng mô hình? 
 ## b. So sánh 3 tier và 3 layer
