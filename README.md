@@ -28,8 +28,41 @@ Thành phần :
 - Giao thức truy cập đối tượng đơn giản (Simple Object Access Protocol – SOAP)
 - Chuẩn dịch vụ Tích hợp, Khám phá và Mô tả thống nhất (Universal Description, Discovery, and Integration – UDDI)
 
-# 4. SDLC là gì? Các giai đoạn trong SDLC? Trình bày mục đích của từng giai đoạn? 
+# 4. SDLC là gì? Các giai đoạn trong SDLC? Trình bày mục đích của từng giai đoạn?
+SDLC là một **quy trình** được sử dụng bởi ngành **công nghiệp phần mềm** để **thiết kế**.
+
+Mục đích từng giai đoạn :
+- Lập kế hoạch : báo cáo tính khả thi chứa đựng định nghĩa một vấn đề và tổng quát hoá mục tiêu, phạm vi và các rủi ro liên quan
+- Xác định yêu cầu : thu được tài liệu SRS (Đặc tả yêu cầu phần mềm-Software Requirements Specification) bao gồm tất cả các yêu cầu sản phẩm được thiết kế và phát triển trong vòng đời dự án
+- Phân tích : Mô hình hệ thống mà tổng quát ,cung cấp giá thành/lợi ích trong quá trình chọn lựa và đưa ra những đề nghị sẽ làm gì trong mô hình
+- Thiết kế : Thiết kế bên trong của tất cả các mô-đun của hệ thống (Design Document Specification-DDS)
+- Xây dựng hệ thống : Viết mã hiện thực hóa các module được đặc tả trong DDS
+- Thử nghiệm và bảo trì hệ thống : Hoàn thiện hệ thống để sẵn sàng đưa vào triển khai
+- Vận hành và đánh giá hệ thống : Cung cấp các bản vá lỗi và các bản cập nhật thích hợp cho hệ thống
 # 5. Có những cách tiếp cận nào trong hiện thực SDLC? Nêu ưu/nhược điểm của từng cách và cho ví dụ về phương pháp trong từng cách tiếp cận. 
+### Phương pháp tiếp cận tuyến tính ( Linear )
+Ưu điểm :
+ + Đơn giản dễ áp dụng
+ + Dễ quản lí 
+ + Tiêu chí đầu vào rõ ràng, kiểm tra chất lượng dễ dàng
+ + Hoạt động hiệu quả trong các dự án nhỏ với yêu cầu rõ ràng
+ + Cung cấp nhiều tài liệu cho khách hàng
+Nhược điểm :
+ + Không hiệu quả trong các dự án lớn
+ + Không hiệu quả khi yêu cầu không rõ ràng
+ + Khó thích ứng với sự thay đổi yêu cầu, kế hoạch, phạm vi dự án
+ + Khách hàng chỉ thấy và sử dụng sản phẩm ở cuối chu trình
+### Phương pháp tiếp cận tăng trường ( Incremental )
+Ưu điểm :
+ + Thực hiện nhanh một số chức năng
+ + Thực hiện song song các chức năng
+ + Chi phí thấp nếu yêu cầu/phạm vi thay đổi
+ + Phù hợp với các dự án lớn và cấp bách
+Nhược điểm :
+ + Cần nhiều tài nguyên
+ + Công tác quản lý không dễ dàng
+ + Phác thảo và thiết kế liên tục
+ + Cần nhiều kinh nghiệm khi tiến hành
 # 6. SDLC 
 ## a. Các mô hình: Waterfall, mô hình chữ V, lặp, xoắn ốc, RAD, Agile 
 ## b. Agile là gì? Các nguyên tắc chính của Agile? 
